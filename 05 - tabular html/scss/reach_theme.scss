@@ -13,15 +13,8 @@ $font-family-sans-serif: "Roboto", sans-serif;
 $color1: #EE5859;
 $color2: #58585A;
 
-/* $toc-color: $color1;
-
-$toc-color: $color1;
-
-$link-color: color.adjust($color1, $blackness: 20%);
-
-$headings-color: $color1;
-
-$callout-color-note: color.adjust($color1, $whiteness: 20%);*/
+// Define a variable for your logo path
+$logo-path: "scss/images/REACH_Logo.jpg"; // Replace with your actual logo path
 
 /*-- scss:rules --*/
 
@@ -42,8 +35,6 @@ p.subtitle {
 
 
 
-// Define a variable for your logo path
-$logo-path: "./scss/images/REACH_Logo.jpg"; // Replace with your actual logo path
 
 // Title banner styling
 .quarto-title-block .quarto-title-banner {
