@@ -10,6 +10,7 @@ format:
       body-width: 1000px
     title-block-banner: true
     theme: scss/reach_theme.scss
+    self-contained: true
 
 params: 
     results_table_path: "../outputs/03 - analysis/all_analysis.rds"
